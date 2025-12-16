@@ -1,0 +1,15 @@
+[user]
+    email = alimohammadiparham@gmail.com
+    name = Parhoom
+
+[merge]
+    conflictStyle = diff3
+
+[init]
+    defaultBranch = main
+
+[alias]
+    tree = log --graph --decorate --pretty=oneline --abbrev-commit --all
+
+[core]
+    editor = nvim
